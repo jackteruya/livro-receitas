@@ -3,5 +3,5 @@
 
  Olá! Bem vindo ao meu livro de receitas
 
- .Strogonoffe de Frango
- .Pavê
+ -Strogonoffe de Frango
+ -Pavê
